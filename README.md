@@ -1,3 +1,6 @@
+<meta name='keywords' content='avro phonetic, go avro, phonetic translation, bangla to english, goavro'>
+
+
 # go-avro-convert
 
 Translate phonetic Bangla to English.
