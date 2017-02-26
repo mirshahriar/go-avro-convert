@@ -18,7 +18,7 @@ $ go get -u -v github.com/aerokite/go-avro-convert/...
 # Usage
 
 ```go
-package any
+package main
 
 import (
         "fmt"
