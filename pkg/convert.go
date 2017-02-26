@@ -11,7 +11,7 @@ func Convert(text string) (string, error) {
 		return "", err
 	}
 
-	req := translate.TranslateRequest{
+	req := &translate.TranslateRequest{
 		SourceLang: "bn",
 		TargetLang: "en",
 		Text:       parsedText,

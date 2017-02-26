@@ -8,6 +8,6 @@
 pushd $GOPATH/src/github.com/aerokite/go-avro-convert
 
 glide up -v
-glide vc --only-code --no-tests --no-test-imports --dryrun
+glide vc --only-code --no-tests --no-test-imports
 
 popd

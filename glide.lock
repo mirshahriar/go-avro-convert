@@ -1,8 +1,8 @@
-hash: 6c37a553115046c85937c35fa9bf5a0f1b5121062f0d3eccbc65e9da08fdcbba
-updated: 2017-02-25T01:09:36.683944388+06:00
+hash: feabf49369f4288f3effe7145784eb791e16110672146abdf65eab020fc30cd1
+updated: 2017-02-26T14:02:30.813351236+06:00
 imports:
 - name: github.com/aerokite/go-google-translate
-  version: 2bd58cea6401d9aa70edaee27044c706c16f125f
+  version: 1a17665fc90296986f74b441ef5a024b8beeec03
   subpackages:
   - pkg
   - pkg/client
