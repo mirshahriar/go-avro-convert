@@ -1,0 +1,19 @@
+hash: feabf49369f4288f3effe7145784eb791e16110672146abdf65eab020fc30cd1
+updated: 2017-02-26T14:02:30.813351236+06:00
+imports:
+- name: github.com/aerokite/go-google-translate
+  version: 1a17665fc90296986f74b441ef5a024b8beeec03
+  subpackages:
+  - pkg
+  - pkg/client
+- name: github.com/inconshreveable/mousetrap
+  version: 76626ae9c91c4f2a10f34cad8ce83ea42c93bb75
+- name: github.com/sadlil/go-avro-phonetic
+  version: acf22ec97ee95d793de5d879be04b2b7ff5dbf1a
+  subpackages:
+  - data
+- name: github.com/spf13/cobra
+  version: 92ea23a837e66f46ac9e7d04fa826602b7b0a42d
+- name: github.com/spf13/pflag
+  version: 9ff6c6923cfffbcd502984b8e0c80539a94968b7
+testImports: []
