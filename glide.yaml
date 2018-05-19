@@ -6,3 +6,6 @@ import:
   version: v0.0.2-alpha
 - package: github.com/sadlil/go-avro-phonetic
 - package: github.com/spf13/cobra
+  version: master
+- package: github.com/spf13/pflag
+  version: 583c0c0531f06d5278b7d917446061adc344b5cd
