@@ -184,8 +184,8 @@ type bintree struct {
 }
 
 var _bintree = &bintree{nil, map[string]*bintree{
-	"data": &bintree{nil, map[string]*bintree{
-		"dictionary.json": &bintree{dataDictionaryJson, map[string]*bintree{}},
+	"data": {nil, map[string]*bintree{
+		"dictionary.json": {dataDictionaryJson, map[string]*bintree{}},
 	}},
 }}
 
