@@ -10,6 +10,7 @@ gen
 
 ### Go template
 # Binaries for programs and plugins
+*.exe
 *.dll
 *.so
 *.dylib

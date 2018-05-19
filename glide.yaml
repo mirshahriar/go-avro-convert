@@ -1,8 +1,8 @@
 package: github.com/aerokite/go-avro-convert
 import:
 - package: github.com/aerokite/go-google-translate
+  version: v0.0.2-alpha
   subpackages:
   - pkg
-  version: v0.0.2-alpha
 - package: github.com/sadlil/go-avro-phonetic
 - package: github.com/spf13/cobra

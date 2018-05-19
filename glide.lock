@@ -1,5 +1,5 @@
 hash: feabf49369f4288f3effe7145784eb791e16110672146abdf65eab020fc30cd1
-updated: 2018-05-19T21:56:33.630648106+06:00
+updated: 2018-05-19T21:58:59.225961593+06:00
 imports:
 - name: github.com/aerokite/go-google-translate
   version: 1a17665fc90296986f74b441ef5a024b8beeec03
