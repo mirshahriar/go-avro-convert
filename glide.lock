@@ -1,5 +1,5 @@
 hash: feabf49369f4288f3effe7145784eb791e16110672146abdf65eab020fc30cd1
-updated: 2017-02-26T14:02:30.813351236+06:00
+updated: 2018-05-19T21:56:33.630648106+06:00
 imports:
 - name: github.com/aerokite/go-google-translate
   version: 1a17665fc90296986f74b441ef5a024b8beeec03
@@ -13,7 +13,7 @@ imports:
   subpackages:
   - data
 - name: github.com/spf13/cobra
-  version: 92ea23a837e66f46ac9e7d04fa826602b7b0a42d
+  version: ef82de70bb3f60c65fb8eebacbb2d122ef517385
 - name: github.com/spf13/pflag
-  version: 9ff6c6923cfffbcd502984b8e0c80539a94968b7
+  version: e57e3eeb33f795204c1ca35f56c44f83227c6e66
 testImports: []
